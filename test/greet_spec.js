@@ -1,7 +1,7 @@
-var greet = require('../index.js');
+var greet = require('../lib/index.js');
 //var expect = require('chai').expect;
 
-var name = 'cloverstd';
+var name = ['cloverstd'];
 var drunk = true;
 
 describe('greet', function() {
