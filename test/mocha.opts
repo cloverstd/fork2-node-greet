@@ -1,3 +1,4 @@
 --require test/support/helper
 --reporter spec
 --no-colors
+--compilers coffee:coffee-script/register
